@@ -1,0 +1,20 @@
+==========================================
+SLURM_CLUSTER_NAME = param-shivay
+SLURM_JOB_ACCOUNT = electronics_engg
+SLURM_JOB_ID = 912334
+SLURM_JOB_NAME = paper01_eval
+SLURM_JOB_NODELIST = gpu003
+SLURM_JOB_USER = jasnoors.ece21.itbhu
+SLURM_JOB_UID = 5861
+SLURM_JOB_PARTITION = gpu
+SLURM_TASK_PID = 50524
+SLURM_SUBMIT_DIR = /home/jasnoors.ece21.itbhu/bin_net/BinaryNet.pytorch
+SLURM_CPUS_ON_NODE = 20
+SLURM_NTASKS = 20
+SLURM_TASK_PID = 50524
+==========================================
+Files already downloaded and verified
+EVALUATING - Epoch: [0][0/40]	Time 48.705 (48.705)	Data 2.457 (2.457)	Loss 0.2523 (0.2523)	Prec@1 91.797 (91.797)	Prec@5 100.000 (100.000)
+EVALUATING - Epoch: [0][10/40]	Time 0.023 (4.449)	Data 0.000 (0.224)	Loss 0.4215 (0.4253)	Prec@1 89.062 (89.134)	Prec@5 98.438 (99.432)
+EVALUATING - Epoch: [0][20/40]	Time 0.023 (2.341)	Data 0.000 (0.117)	Loss 0.2850 (0.4206)	Prec@1 90.625 (89.304)	Prec@5 100.000 (99.479)
+EVALUATING - Epoch: [0][30/40]	Time 0.023 (1.594)	Data 0.000 (0.079)	Loss 0.4861 (0.4133)	Prec@1 88.672 (89.252)	Prec@5 99.609 (99.546)

@@ -1,0 +1,17 @@
+==========================================
+SLURM_CLUSTER_NAME = param-shivay
+SLURM_JOB_ACCOUNT = electronics_engg
+SLURM_JOB_ID = 912040
+SLURM_JOB_NAME = paper01
+SLURM_JOB_NODELIST = gpu003
+SLURM_JOB_USER = jasnoors.ece21.itbhu
+SLURM_JOB_UID = 5861
+SLURM_JOB_PARTITION = gpu
+SLURM_TASK_PID = 62648
+SLURM_SUBMIT_DIR = /home/jasnoors.ece21.itbhu/bin_net/BinaryNet.pytorch
+SLURM_CPUS_ON_NODE = 20
+SLURM_NTASKS = 20
+SLURM_TASK_PID = 62648
+==========================================
+Files already downloaded and verified
+Files already downloaded and verified
