@@ -1,7 +1,7 @@
 Binarized Neural Networks
 =================================================
-This repository contains training example for BinaryNets using Binary-Backpropagation algorithm as explained in "Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1" ([link](https://arxiv.org/abs/1602.02830)). </br>
-This code is from https://github.com/itayhubara/BinaryNet.pytorch/tree/master and we tried to run it on HPC.
+This repository contains training example for BinaryNets using Binary-Backpropagation algorithm as explained in "Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1" ([paper link](https://arxiv.org/abs/1602.02830)). </br>
+This code is based on ([this repo](https://github.com/itayhubara/BinaryNet.pytorch/tree/master))  and we tried to run it on HPC.
 
 
 ## Training
